@@ -1,0 +1,1 @@
+https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=NGC7466&filter=color&filter=g&filter=r&filter=i&filter=z&filter=y&filetypes=stack&auxiliary=data&auxiliary=mask&size=260&output_size=256&verbose=0&autoscale=99.500000&catlis0t=
