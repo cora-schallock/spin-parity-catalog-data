@@ -1,4 +1,13 @@
-# Pan-STARRS 1: Data
+# Pan-STARRS 1: 
+## Data:
+The FITS images, color composite images, as well as link to the galaxy on the PANSTARRS-1 Image CUtout Service, RA/DEC, and size can be found in the data folders below:
+
+| Figure     |
+|------------|
+| [Figure #8](https://github.com/cora-schallock/spin-parity-catalog-data/tree/main/panstarrs/figure8)  | 
+| [Figure #9](https://github.com/cora-schallock/spin-parity-catalog-data/tree/main/panstarrs/figure9)  | 
+| [Figure #10](https://github.com/cora-schallock/spin-parity-catalog-data/tree/main/panstarrs/figure10) | 
+| [Figure #11](https://github.com/cora-schallock/spin-parity-catalog-data/tree/main/panstarrs/figure11) | 
 
 ## Missing Galaxies:
 Below is a table indicating the number of galaxies in each figure from Spin Parity paper and the number of galaxies that are present in this catalog:
@@ -45,3 +54,10 @@ Figure #9 Missing Galaxies:
 
 Figure #10 Missing Galaxies:
 - NGC3621: missing from survey (in ESSO)
+
+## Downloader:
+The [downloader folder](https://github.com/cora-schallock/spin-parity-catalog-data/tree/main/panstarrs/downloader-scripts) contains scripts you can run to download your own copy of the data from the PANSTARRS Image Cutout Service.
+
+## Cutoutsize:
+The [cutout size folder](https://github.com/cora-schallock/spin-parity-catalog-data/tree/main/panstarrs/cutout_size) contains the image cutout size parameter used for each galaxy in the catalog [in units of pixels]. Please note that for this survery the conversion between that and arcseconds is 1 pixel = 0.25 arcsec. The size information for each downloaded galaxy can also be found in the "size text file" (for example for NGC1 it is called [NGC1_size.txt](https://github.com/cora-schallock/spin-parity-catalog-data/blob/main/panstarrs/figure9/NGC1/NGC1_size.txt)).
+
