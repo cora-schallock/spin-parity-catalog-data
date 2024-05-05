@@ -14,8 +14,8 @@ Below is a table indicating the number of galaxies in each figure from Spin Pari
 
 | Figure     | Spin Parity Paper Count | Spin Parity Catalog Count |
 |------------|-------|---------------------------|
-| Figure #8  | 146   | 135                       |
-| Figure #9  | 321   | 303                       |
+| Figure #8  | 146   | 136                       |
+| Figure #9  | 321   | 317                       |
 | Figure #10 | 63    | 62                        |
 | Figure #11 | 25    | 25                        |
 
