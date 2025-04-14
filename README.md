@@ -5,4 +5,4 @@ It should be noted that an Erratum was issued to fix some of the labels [Iye et.
 
 ### References:
 [^1]: [Spin Parity of Spiral Galaxies. I. Corroborative Evidence for Trailing Spirals (Iye. et al., 2019)](https://iopscience.iop.org/article/10.3847/1538-4357/ab4a18)
-[^2]: [Erratum: "Spin Parity of Spiral Galaxies. I. Corroborative Evidence for Trailing Spirals"]([https://iopscience.iop.org/article/10.3847/1538-4357/ab4a18](https://iopscience.iop.org/article/10.3847/1538-4357/ad9745))
+[^2]: [Erratum: "Spin Parity of Spiral Galaxies. I. Corroborative Evidence for Trailing Spirals"](https://iopscience.iop.org/article/10.3847/1538-4357/ab4a18](https://iopscience.iop.org/article/10.3847/1538-4357/ad9745)
